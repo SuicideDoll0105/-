@@ -1,0 +1,9 @@
+{
+  "display_name": "法式洛可可 24h 日程",
+  "loading_order": 10,
+  "requires": [],
+  "optional": [],
+  "author": "User",
+  "version": "1.0.0",
+  "description": "法式洛可可风24小时日程与时空氛围生成小部件，支持一键填入输入框。"
+}
